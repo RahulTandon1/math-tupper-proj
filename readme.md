@@ -11,3 +11,6 @@ Sources of help
 - https://stackoverflow.com/questions/8750203/what-is-antialiased-in-matplotlib-collections-and-how-do-you-set-the-paramet
 - https://github.com/scholaronroad/tuppers-self-referential-formula/blob/master/tupper-plot.py -> original inspiration along with CW hunt from 2017
 - https://keelyhill.github.io/tuppers-formula/
+
+I honestly deconstructed and the partially reconstructed code snippets from @scholaronroad's https://github.com/scholaronroad/tuppers-self-referential-formula.
+
