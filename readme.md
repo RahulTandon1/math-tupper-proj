@@ -1,6 +1,6 @@
 # Grade 12 Math Project on Tupper's Self Referential Formula
 
-For my grade 12 Math project, I partnered up with Harsh Acharya and Vinayak Singh Bhadoriya[https://www.facebook.com/vinayak.singhbhadoria]
+For my grade 12 Math project, I partnered up with Harsh Acharya and [Vinayak Singh Bhadoriya](https://www.facebook.com/vinayak.singhbhadoria)
 We worked on the Tupper's Self Referential Formula.
 
 We made a presentation to go alongside, which can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQd8eVCHVvuAJ5n0t9eywa0MN-h0P4JasQk6CcmeBc2vn_Dcp94FWp6QY58AVe-33DeJnUhCbD9ZOC_/pub?start=false&loop=false&delayms=60000)
