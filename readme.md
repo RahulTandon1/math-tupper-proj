@@ -5,7 +5,7 @@ We worked on the Tupper's Self Referential Formula.
 
 We made a presentation to go alongside, which can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQd8eVCHVvuAJ5n0t9eywa0MN-h0P4JasQk6CcmeBc2vn_Dcp94FWp6QY58AVe-33DeJnUhCbD9ZOC_/pub?start=false&loop=false&delayms=60000)
 
-In case you want the images that we produced, you'll find them in the `/img` folder/directory.
+In case you want the images that we produced, you'll find them in the `/imgs` folder/directory.
 
 If you're a programmer and want to understand the underlying code, I'll comment the code well sometime. If it's urgent & and I haven't commented the code well, please open an issue in the Github repo.
 
